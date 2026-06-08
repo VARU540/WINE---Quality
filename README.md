@@ -39,3 +39,12 @@ This project performs **exploratory data analysis (EDA)** and **multidimensional
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
+
+
+
+## 👨‍💻 Author
+
+**Varun Chaudhari**
+
+- GitHub: https://github.com/VARU540
+
